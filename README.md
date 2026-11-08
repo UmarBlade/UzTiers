@@ -16,7 +16,7 @@ This repository contains the **UzTiers Discord bot** and its **web staff panel**
 4. Higher tiers (LT3+) go through a separate high-test ticket flow against higher-tier testers.
 5. Results sync to a MySQL database that powers the public leaderboard on uztiers.com.
 
-Kits: **Sword, Axe, Mace, NethPot, Potion, SMP, UHC, Vanilla, Crystal** — each with its own Discord server.
+Kits: **Sword, Axe, Mace, NethPot, Potion, SMP, UHC, Crystal** — each with its own Discord server.
 
 ## Features
 
