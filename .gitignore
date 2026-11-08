@@ -1,0 +1,17 @@
+node_modules/
+.env
+backup-*/
+.claude/
+.vscode/
+*.log
+# runtime data (player IDs, queues, cooldowns)
+activeTests.json
+cooldowns.json
+highTests.json
+lastTestTime.json
+queueData.json
+restrictedUsers.json
+testCounts.json
+userProfiles.json
+userTiers.json
+verifiedUsers.json
